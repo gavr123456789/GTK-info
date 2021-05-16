@@ -52,6 +52,7 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
 
 # Examples
 - Python
+  * [GTK 3 samples](https://developer.gnome.org/gnome-devel-demos/stable/beginner.py.html.en)
   * [custom Gtk.TreeModel for Gtk 3 ](https://gist.github.com/andialbrecht/4463278)
 - Vala
   * [GTK 3 Widgets examples from ValaDoc](https://github.com/vala-lang/valadoc-org/tree/master/examples/gtk%2B-3.0)
