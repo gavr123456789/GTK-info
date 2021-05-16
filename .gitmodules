@@ -1,0 +1,3 @@
+[submodule "Vala/gtk4/gtk4_list_clocks"]
+	path = Vala/gtk4/gtk4_list_clocks
+	url = https://github.com/aeldemery/gtk4_list_clocks
