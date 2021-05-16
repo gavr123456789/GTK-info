@@ -46,3 +46,12 @@
 [submodule "Vala/gtk4/gtk4_app"]
 	path = Vala/gtk4/gtk4_app
 	url = https://github.com/aeldemery/gtk4_app
+[submodule "Vala/gtk3/Repos/vala-gtk-examples"]
+	path = Vala/gtk3/Repos/vala-gtk-examples
+	url = https://github.com/gerito1/vala-gtk-examples
+[submodule "Vala/gtk3/Repos/vala-samples"]
+	path = Vala/gtk3/Repos/vala-samples
+	url = https://github.com/bitwalk123/vala-samples
+[submodule "Vala/gtk3/Repos/dnd_order_list_box"]
+	path = Vala/gtk3/Repos/dnd_order_list_box
+	url = https://gitlab.com/doublehourglass/dnd_order_list_box
