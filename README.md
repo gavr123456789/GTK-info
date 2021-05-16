@@ -8,13 +8,13 @@ PR's are welcome!
 ## [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
 
 
-Best GTK 4 guide (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial
+Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial
 
 ### Docs
 
 - C++
-  * GTKMM https://www.gtkmm.org/en/documentation.html
-  * GTKMM 4 https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en
+  * [GTKMM](https://www.gtkmm.org/en/documentation.html)
+  * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
 - Vala
   * [GTK 3](https://valadoc.org/gtk+-3.0/index.htm)
   * [GTK 4](https://valadoc.org/gtk4/index.htm)
@@ -34,7 +34,7 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
   * [More than 100 nice lessons for GTK 3](https://gtkdcoding.com/)  Last 2020
   * [GTK 3 tutorial](https://sites.google.com/site/gtkdtutorial/) 2013
 - C
-  * []()
+  * [Gtk4 Tutorial for beginners](https://github.com/ToshioCP/Gtk4-tutorial)
   * [GTK Glade C Programming Tutorial](https://prognotes.net/gtk-glade-c-programming/)
 - Crystal
   * [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6) GTK 3 2020
