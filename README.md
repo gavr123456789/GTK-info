@@ -22,6 +22,10 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
   * [GTK 3](https://api.gtkd.org/)
 - Guile
   * [GTK 3](https://spk121.github.io/guile-gi/)
+- GJS
+  * https://gjs-docs.gnome.org/
+  * 
+
 
 # Tutorials
 - Nim
@@ -44,7 +48,8 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
   * [Video tutorials for GTK 3](https://www.youtube.com/watch?v=7z0NVCrJr6A&list=PLriKzYyLb28mn2lS3c5yqMHgLREi7kR9-) 2021
   * [Vala GTK+ Examples](https://wiki.gnome.org/Projects/Vala/GTKSample) 2016
   * [Creating Custom GTK+ Widgets](https://wiki.gnome.org/Projects/Vala/CustomWidgetSamples)
-
+- GJS 
+  * https://gjs.guide/
 
 # Examples
 - Python
