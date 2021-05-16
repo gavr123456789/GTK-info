@@ -1,3 +1,48 @@
 [submodule "Vala/gtk4/gtk4_list_clocks"]
 	path = Vala/gtk4/gtk4_list_clocks
 	url = https://github.com/aeldemery/gtk4_list_clocks
+[submodule "Vala/gtk4/gtk4_sliding_puzzle"]
+	path = Vala/gtk4/gtk4_sliding_puzzle
+	url = https://github.com/aeldemery/gtk4_sliding_puzzle
+[submodule "Vala/gtk4/gtk4_shadertoy"]
+	path = Vala/gtk4/gtk4_shadertoy
+	url = https://github.com/aeldemery/gtk4_shadertoy
+[submodule "Vala/gtk4/gtk4_opengl_transition"]
+	path = Vala/gtk4/gtk4_opengl_transition
+	url = https://github.com/aeldemery/gtk4_opengl_transition
+[submodule "Vala/gtk4/gtk4_list_characters"]
+	path = Vala/gtk4/gtk4_list_characters
+	url = https://github.com/aeldemery/gtk4_list_characters
+[submodule "Vala/gtk4/gtk4_listbox_controls"]
+	path = Vala/gtk4/gtk4_listbox_controls
+	url = https://github.com/aeldemery/gtk4_listbox_controls
+[submodule "Vala/gtk4/gtk4_layoutmanager"]
+	path = Vala/gtk4/gtk4_layoutmanager
+	url = https://github.com/aeldemery/gtk4_layoutmanager
+[submodule "Vala/gtk4/gtk4_dropdown"]
+	path = Vala/gtk4/gtk4_dropdown
+	url = https://github.com/aeldemery/gtk4_dropdown
+[submodule "Vala/gtk4/gtk4_drawing_area"]
+	path = Vala/gtk4/gtk4_drawing_area
+	url = https://github.com/aeldemery/gtk4_drawing_area
+[submodule "Vala/gtk4/gtk4_dnd"]
+	path = Vala/gtk4/gtk4_dnd
+	url = https://github.com/aeldemery/gtk4_dnd
+[submodule "Vala/gtk4/gtk4_constraints_vfl"]
+	path = Vala/gtk4/gtk4_constraints_vfl
+	url = https://github.com/aeldemery/gtk4_constraints_vfl
+[submodule "Vala/gtk4/gtk4_constraints_simple"]
+	path = Vala/gtk4/gtk4_constraints_simple
+	url = https://github.com/aeldemery/gtk4_constraints_simple
+[submodule "Vala/gtk4/gtk4_app_launcher"]
+	path = Vala/gtk4/gtk4_app_launcher
+	url = https://github.com/aeldemery/gtk4_app_launcher
+[submodule "Vala/gtk4/gtk4_list_colors"]
+	path = Vala/gtk4/gtk4_list_colors
+	url = https://github.com/aeldemery/gtk4_list_colors
+[submodule "Vala/gtk4/gtk4_list_weather"]
+	path = Vala/gtk4/gtk4_list_weather
+	url = https://github.com/aeldemery/gtk4_list_weather
+[submodule "Vala/gtk4/gtk4_app"]
+	path = Vala/gtk4/gtk4_app
+	url = https://github.com/aeldemery/gtk4_app
