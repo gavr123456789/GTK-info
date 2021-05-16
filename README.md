@@ -24,7 +24,6 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
   * [GTK 3](https://spk121.github.io/guile-gi/)
 - GJS
   * https://gjs-docs.gnome.org/
-  * 
 
 
 # Tutorials
@@ -61,6 +60,8 @@ Best GTK 4 guide (for C but its so good that it doesnt matter what language you 
   * [More than 100 nice lessons for GTK 3](https://gtkdcoding.com/)
 - Nim 
   * This repo
+- GJS
+  * https://gjs.guide/showcase/
 
 # GTK for Languages
 - Vala language was created for GTK Dev
