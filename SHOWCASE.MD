@@ -40,6 +40,7 @@
 - [Tetravex](https://gitlab.gnome.org/GNOME/gnome-tetravex)
 - [moserial](https://gitlab.gnome.org/GNOME/moserial)
 - [Klotski](https://gitlab.gnome.org/GNOME/gnome-klotski)
+
 ## Python
 - [Lollypop](https://gitlab.gnome.org/World/lollypop)  
 https://gitlab.gnome.org/World/OpenPaperwork/paperwork
@@ -77,8 +78,8 @@ https://gitlab.gnome.org/GNOME/pitivi
 https://gitlab.gnome.org/GNOME/gnome-builder  
 https://gitlab.gnome.org/GNOME/gnome-software  
 https://gitlab.gnome.org/GNOME/gedit  
-https://gitlab.gnome.org/GNOME/recipes
-https://gitlab.gnome.org/GNOME/gnome-remote-desktop
+https://gitlab.gnome.org/GNOME/recipes  
+https://gitlab.gnome.org/GNOME/gnome-remote-desktop  
 https://gitlab.gnome.org/GNOME/eog  
 https://gitlab.gnome.org/Spctrl/rhythmbox  
 https://gitlab.gnome.org/GNOME/evolution  
@@ -128,7 +129,7 @@ https://gitlab.gnome.org/GNOME/pan
 https://gitlab.gnome.org/World/deja-dup  
 https://gitlab.gnome.org/World/Fragments  
 https://github.com/lainsce/khronos  
-https://github.com/bitstower/markets
+https://github.com/bitstower/markets  
 https://github.com/bleakgrey/tootle  
 
 ## Crystal
