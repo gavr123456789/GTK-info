@@ -7,21 +7,36 @@
 
 Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial
 
-### Docs
+Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages.
 
-- C++
-  * [GTKMM](https://www.gtkmm.org/en/documentation.html)
-  * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
-- Vala
-  * [GTK 3](https://valadoc.org/gtk+-3.0/index.htm)
-  * [GTK 4](https://valadoc.org/gtk4/index.htm)
-- D
-  * [GTK 3](https://api.gtkd.org/)
-- Guile
-  * [GTK 3](https://spk121.github.io/guile-gi/)
-- GJS
-  * https://gjs-docs.gnome.org/
+# GTK for Languages
+- Vala language was created for GTK Dev
+- C# https://github.com/gircore/gir.core
+- Nim https://github.com/StefanSalewski/gintro  
+- Golang
+  * GTK 3 https://github.com/diamondburned/gotk3
+  * GTK 4 Not ready https://github.com/diamondburned/gotk4
+- Rust https://github.com/gtk-rs/gtk
+- Dlang 
+  * GIR https://github.com/gtkd-developers/gir-to-d
+  * GTK 3 https://github.com/gtkd-developers/GtkD
+- Crystal 
+  * GIR https://github.com/jhass/crystal-gobject
+- Swift https://github.com/rhx/gir2swift
+- Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
+- Standard ML Family http://giraffelibrary.org/
+- Ruby https://github.com/ruby-gnome/ruby-gnome
 
+- C++ 
+  * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
+  * GIR https://gitlab.com/mnauw/cppgir
+- Guile 
+  * GNU G-Golf GIR https://www.gnu.org/software/g-golf/
+  * Guile-GI https://github.com/spk121/guile-gi
+- JS 
+  * Node https://github.com/romgrk/node-gtk
+  * GJS https://gitlab.gnome.org/GNOME/gjs/
+  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed  
 
 # Tutorials
 - Nim
@@ -61,31 +76,17 @@ Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what la
 - GJS
   * https://gjs.guide/showcase/
 
-# GTK for Languages
-- Vala language was created for GTK Dev
-- C# https://github.com/gircore/gir.core
-- Nim https://github.com/StefanSalewski/gintro  
-- Golang
-  * GTK 3 https://github.com/diamondburned/gotk3
-  * GTK 4 Not ready https://github.com/diamondburned/gotk4
-- Rust https://github.com/gtk-rs/gtk
-- Dlang 
-  * GIR https://github.com/gtkd-developers/gir-to-d
-  * GTK 3 https://github.com/gtkd-developers/GtkD
-- Crystal 
-  * GIR https://github.com/jhass/crystal-gobject
-- Swift https://github.com/rhx/gir2swift
-- Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
-- Standard ML Family http://giraffelibrary.org/
-- Ruby https://github.com/ruby-gnome/ruby-gnome
+### Docs
 
-- C++ 
-  * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
-  * GIR https://gitlab.com/mnauw/cppgir
-- Guile 
-  * GNU G-Golf GIR https://www.gnu.org/software/g-golf/
-  * Guile-GI https://github.com/spk121/guile-gi
-- JS 
-  * Node https://github.com/romgrk/node-gtk
-  * GJS https://gitlab.gnome.org/GNOME/gjs/
-  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed  
+- C++
+  * [GTKMM](https://www.gtkmm.org/en/documentation.html)
+  * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
+- Vala
+  * [GTK 3](https://valadoc.org/gtk+-3.0/index.htm)
+  * [GTK 4](https://valadoc.org/gtk4/index.htm)
+- D
+  * [GTK 3](https://api.gtkd.org/)
+- Guile
+  * [GTK 3](https://spk121.github.io/guile-gi/)
+- GJS
+  * https://gjs-docs.gnome.org/
