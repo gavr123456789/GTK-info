@@ -43,124 +43,123 @@
 
 ## Python
 - [Lollypop](https://gitlab.gnome.org/World/lollypop)  
-https://gitlab.gnome.org/World/OpenPaperwork/paperwork
-https://gitlab.gnome.org/World/PasswordSafe  
-https://gitlab.gnome.org/World/OpenPaperwork/ironscanner  
-https://gitlab.gnome.org/GNOME/gnome-music  
-https://gitlab.gnome.org/GNOME/meld  
-https://gitlab.gnome.org/World/giara  
-https://gitlab.gnome.org/GNOME/gnome-keysign  
-https://gitlab.gnome.org/GNOME/d-feet  
-https://gitlab.gnome.org/GNOME/orca  
-https://gitlab.gnome.org/GNOME/pybliographer  
-https://gitlab.gnome.org/GNOME/accerciser  
-https://gitlab.gnome.org/GNOME/postr  
+- [paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork)
+- [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe)  
+- [ironscanner](https://gitlab.gnome.org/World/OpenPaperwork/ironscanner)  
+- [gnome-music](https://gitlab.gnome.org/GNOME/gnome-music)  
+- [meld](https://gitlab.gnome.org/GNOME/meld)  
+- [giara](https://gitlab.gnome.org/World/giara)  
+- [gnome-keysign](https://gitlab.gnome.org/GNOME/gnome-keysign)  
+- [d-feet](https://gitlab.gnome.org/GNOME/d-feet)  
+- [orca](https://gitlab.gnome.org/GNOME/orca)  
+- [pybliographer](https://gitlab.gnome.org/GNOME/pybliographer)  
+- [accerciser](https://gitlab.gnome.org/GNOME/accerciser)  
+- [postr](https://gitlab.gnome.org/GNOME/postr)  
 
 ## Rust
-https://gitlab.gnome.org/World/Shortwave  
-https://gitlab.gnome.org/GNOME/fractal  
-https://gitlab.gnome.org/World/Tau  
-https://gitlab.gnome.org/World/podcasts  
-https://gitlab.gnome.org/World/pika-backup  
-https://gitlab.gnome.org/World/Authenticator
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave)  
+- [fractal](https://gitlab.gnome.org/GNOME/fractal)  
+- [Tau](https://gitlab.gnome.org/World/Tau)  
+- [podcasts](https://gitlab.gnome.org/World/podcasts)  
+- [pika-backup](https://gitlab.gnome.org/World/pika-backup)  
+- [Authenticator](https://gitlab.gnome.org/World/Authenticator)
 
 # C#
-https://gitlab.gnome.org/GNOME/chronojump  
-https://gitlab.gnome.org/GNOME/gbrainy  
+- [chronojump](https://gitlab.gnome.org/GNOME/chronojump)  
+- [gbrainy](https://gitlab.gnome.org/GNOME/gbrainy)  
 
 
 
 # C
-https://gitlab.gnome.org/GNOME/gnome-text-editor  
-https://gitlab.gnome.org/GNOME/gimp  
-https://gitlab.gnome.org/GNOME/epiphany  
-https://gitlab.gnome.org/GNOME/pitivi  
-https://gitlab.gnome.org/GNOME/gnome-builder  
-https://gitlab.gnome.org/GNOME/gnome-software  
-https://gitlab.gnome.org/GNOME/gedit  
-https://gitlab.gnome.org/GNOME/recipes  
-https://gitlab.gnome.org/GNOME/gnome-remote-desktop  
-https://gitlab.gnome.org/GNOME/eog  
-https://gitlab.gnome.org/Spctrl/rhythmbox  
-https://gitlab.gnome.org/GNOME/evolution  
-https://gitlab.gnome.org/World/design/typography  
-https://gitlab.gnome.org/GNOME/babl  
-https://gitlab.gnome.org/GNOME/gnome-terminal   
-https://gitlab.gnome.org/GNOME/gnome-control-center  
-https://gitlab.gnome.org/GNOME/nautilus
-https://gitlab.gnome.org/GNOME/gnome-todo  
-https://gitlab.gnome.org/GNOME/glade  
-https://gitlab.gnome.org/GNOME/evince  
-https://gitlab.gnome.org/GNOME/gthumb  
-https://gitlab.gnome.org/GNOME/dia  
-https://gitlab.gnome.org/GNOME/gnome-disk-utility
-https://gitlab.gnome.org/GNOME/gnome-screenshot  
-https://gitlab.gnome.org/GNOME/gnome-photos  
-https://gitlab.gnome.org/GNOME/gtranslator  
-https://gitlab.gnome.org/GNOME/gnome-notes  
-https://gitlab.gnome.org/GNOME/totem  
-https://gitlab.gnome.org/GNOME/easytag  
-https://gitlab.gnome.org/GNOME/gnumeric  
-https://gitlab.gnome.org/GNOME/gnome-logs  
-https://gitlab.gnome.org/GNOME/gnome-battery-bench  
-https://gitlab.gnome.org/GNOME/retro-gtk  
-https://gitlab.gnome.org/GNOME/file-roller  
-https://gitlab.gnome.org/GNOME/sysprof  
-https://gitlab.gnome.org/GNOME/gnome-font-viewer  
-https://gitlab.gnome.org/GNOME/gnome-dictionary  
-https://gitlab.gnome.org/GNOME/gnome-multi-writer  
-https://gitlab.gnome.org/GNOME/gnome-characters  
-https://gitlab.gnome.org/GNOME/gnome-power-manager  
-https://gitlab.gnome.org/GNOME/anjuta  
-https://gitlab.gnome.org/GNOME/brasero  
-https://gitlab.gnome.org/GNOME/hitori  
-https://gitlab.gnome.org/GNOME/tali  
+- [gnome-text-editor](https://gitlab.gnome.org/GNOME/gnome-text-editor)  
+- [gimp](https://gitlab.gnome.org/GNOME/gimp)  
+- [epiphany](https://gitlab.gnome.org/GNOME/epiphany)  
+- [pitivi](https://gitlab.gnome.org/GNOME/pitivi)  
+- [gnome-builder](https://gitlab.gnome.org/GNOME/gnome-builder)  
+- [gnome-software](https://gitlab.gnome.org/GNOME/gnome-software)  
+- [gedit](https://gitlab.gnome.org/GNOME/gedit)  
+- [recipes](https://gitlab.gnome.org/GNOME/recipes)  
+- [gnome-remote-desktop](https://gitlab.gnome.org/GNOME/gnome-remote-desktop)  
+- [eog](https://gitlab.gnome.org/GNOME/eog)  
+- [rhythmbox](https://gitlab.gnome.org/Spctrl/rhythmbox)  
+- [evolution](https://gitlab.gnome.org/GNOME/evolution)  
+- [typography](https://gitlab.gnome.org/World/design/typography)  
+- [babl](https://gitlab.gnome.org/GNOME/babl)  
+- [gnome-terminal](https://gitlab.gnome.org/GNOME/gnome-terminal)   
+- [gnome-control-center](https://gitlab.gnome.org/GNOME/gnome-control-center)  
+- [gnome-todo](https://gitlab.gnome.org/GNOME/gnome-todo)  
+- [glade](https://gitlab.gnome.org/GNOME/glade)  
+- [evince](https://gitlab.gnome.org/GNOME/evince)  
+- [gthumb](https://gitlab.gnome.org/GNOME/gthumb)  
+- [dia](https://gitlab.gnome.org/GNOME/dia)  
+- [gnome-disk-utility](https://gitlab.gnome.org/GNOME/gnome-disk-utility)
+- [gnome-screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)  
+- [gnome-photos](https://gitlab.gnome.org/GNOME/gnome-photos)  
+- [gtranslator](https://gitlab.gnome.org/GNOME/gtranslator)  
+- [gnome-notes](https://gitlab.gnome.org/GNOME/gnome-notes)  
+- [totem](https://gitlab.gnome.org/GNOME/totem)  
+- [easytag](https://gitlab.gnome.org/GNOME/easytag)  
+- [gnumeric](https://gitlab.gnome.org/GNOME/gnumeric)  
+- [gnome-logs](https://gitlab.gnome.org/GNOME/gnome-logs)  
+- [gnome-battery-bench](https://gitlab.gnome.org/GNOME/gnome-battery-bench)  
+- [retro-gtk](https://gitlab.gnome.org/GNOME/retro-gtk)  
+- [file-roller](https://gitlab.gnome.org/GNOME/file-roller)  
+- [sysprof](https://gitlab.gnome.org/GNOME/sysprof)  
+- [gnome-font-viewer](https://gitlab.gnome.org/GNOME/gnome-font-viewer)  
+- [gnome-dictionary](https://gitlab.gnome.org/GNOME/gnome-dictionary)  
+- [gnome-multi-writer](https://gitlab.gnome.org/GNOME/gnome-multi-writer)  
+- [gnome-characters](https://gitlab.gnome.org/GNOME/gnome-characters)  
+- [gnome-power-manager](https://gitlab.gnome.org/GNOME/gnome-power-manager)  
+- [anjuta](https://gitlab.gnome.org/GNOME/anjuta)  
+- [brasero](https://gitlab.gnome.org/GNOME/brasero)  
+- [hitori](https://gitlab.gnome.org/GNOME/hitori)  
+- [tali](https://gitlab.gnome.org/GNOME/tali)  
 
 # C++  
-https://gitlab.gnome.org/GNOME/gparted  
-https://gitlab.gnome.org/GNOME/gnome-commander  
-https://gitlab.gnome.org/GNOME/gnome-system-monitor  
-https://gitlab.gnome.org/GNOME/pan  
+- [gparted](https://gitlab.gnome.org/GNOME/gparted)  
+- [gnome-commander](https://gitlab.gnome.org/GNOME/gnome-commander)  
+- [gnome-system-monitor](https://gitlab.gnome.org/GNOME/gnome-system-monitor)  
+- [pan](https://gitlab.gnome.org/GNOME/pan)  
 
 
 # [GNOME Cicle](https://circle.gnome.org/)
 
 ## Vala
-https://gitlab.gnome.org/World/deja-dup  
-https://gitlab.gnome.org/World/Fragments  
-https://github.com/lainsce/khronos  
-https://github.com/bitstower/markets  
-https://github.com/bleakgrey/tootle  
+- [deja-dup](https://gitlab.gnome.org/World/deja-dup)  
+- [Fragments](https://gitlab.gnome.org/World/Fragments)  
+- [khronos](https://github.com/lainsce/khronos)  
+- [markets](https://github.com/bitstower/markets)  
+- [tootle](https://github.com/bleakgrey/tootle)  
 
 ## Crystal
-https://github.com/GeopJr/Hashbrown
+- [Hashbrown](https://github.com/GeopJr/Hashbrown)
 
 ## Python
-https://gitlab.gnome.org/somas/apostrophe  
-https://github.com/rafaelmardojai/blanket  
-https://github.com/geigi/cozy  
-https://github.com/Huluti/Curtail  
-https://github.com/GustavoPeredo/font-downloader  
-https://github.com/dialect-app/dialect  
-https://github.com/maoschanz/drawing  
-https://gaphor.org/  
-https://github.com/SeaDve/Kooha  
-https://gitlab.com/rmnvgr/metadata-cleaner  
-https://gitlab.gnome.org/World/PasswordSafe  
-https://github.com/alexhuntley/Plots  
-https://github.com/rafaelmardojai/webfont-kit-generator  
+- [apostrophe](https://gitlab.gnome.org/somas/apostrophe)  
+- [blanket](https://github.com/rafaelmardojai/blanket)  
+- [cozy](https://github.com/geigi/cozy)  
+- [Curtail](https://github.com/Huluti/Curtail)  
+- [font-downloader](https://github.com/GustavoPeredo/font-downloader)  
+- [dialect](https://github.com/dialect-app/dialect)  
+- [drawing](https://github.com/maoschanz/drawing)  
+- [gaphor](https://gaphor.org/)  
+- [Kooha](https://github.com/SeaDve/Kooha)  
+- [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner)  
+- [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe)  
+- [Plots](https://github.com/alexhuntley/Plots)  
+- [webfont-kit-generator](https://github.com/rafaelmardojai/webfont-kit-generator  
 
 ## Rust 
-https://flathub.org/apps/details/com.belmoussaoui.Authenticator  
-https://gitlab.gnome.org/Cogitri/Health  
-https://gitlab.gnome.org/YaLTeR/identity  
-https://gitlab.com/news-flash/news_flash_gtk  
-https://gitlab.gnome.org/World/obfuscate  
-https://gitlab.gnome.org/World/pika-backup  
-https://gitlab.gnome.org/World/Shortwave  
-https://gitlab.gnome.org/World/Solanum  
-https://gitlab.gnome.org/YaLTeR/video-trimmer  
+- [Authenticator](https://flathub.org/apps/details/com.belmoussaoui.Authenticator)  
+- [Health](https://gitlab.gnome.org/Cogitri/Health)  
+- [identity](https://gitlab.gnome.org/YaLTeR/identity)  
+- [news_flash_gtk](https://gitlab.com/news-flash/news_flash_gtk)  
+- [obfuscate](https://gitlab.gnome.org/World/obfuscate)  
+- [pika-backup](https://gitlab.gnome.org/World/pika-backup)  
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave)  
+- [Solanum](https://gitlab.gnome.org/World/Solanum)  
+- [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer)  
 
 # GJS
-https://github.com/sonnyp/Tangram  
+- [Tangram](https://github.com/sonnyp/Tangram)  
 
