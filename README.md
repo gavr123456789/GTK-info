@@ -48,12 +48,14 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - C
   * [Gtk4 Tutorial for beginners](https://github.com/ToshioCP/Gtk4-tutorial)
   * [GTK Glade C Programming Tutorial](https://prognotes.net/gtk-glade-c-programming/)
+  * [GTK 3 ZetCode tutorial](https://zetcode.com/gui/gtk2/)
 - Crystal
   * [Creating fast GUIs with Crystal, GTK and Glade](https://dev.to/geopjr/creating-fast-guis-with-crystal-gtk-and-glade-en6) GTK 3 2020
 - Python
   * [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/) 2021
   * [GSETTINGS – FLEXIBLE CONFIGURATION SYSTEM](http://zderadicka.eu/gsettings-flexible-configuration-system/) 2012
   * [How to create a GTK application using Python](https://belmoussaoui.com/article/5-how-to-create-a-gtk-application-using-python-part-1) 2019
+  * [GTK 3 ZetCode](https://zetcode.com/gui/pygtk/) 2020
 - Vala
   * [Creating full app GTK 3 for EOS](https://docs.elementary.io/develop/)
   * [Video tutorials for GTK 3](https://www.youtube.com/watch?v=7z0NVCrJr6A&list=PLriKzYyLb28mn2lS3c5yqMHgLREi7kR9-) 2021
@@ -61,6 +63,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [Creating Custom GTK+ Widgets](https://wiki.gnome.org/Projects/Vala/CustomWidgetSamples)
 - GJS 
   * https://gjs.guide/
+- C#  
+  * [GTK 2 ZetCode](https://zetcode.com/gui/gtksharp/) 2020
 
 # Examples
 - Python
