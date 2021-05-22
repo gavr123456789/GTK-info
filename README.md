@@ -93,4 +93,14 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Guile
   * [GTK 3](https://spk121.github.io/guile-gi/)
 - GJS
-  * https://gjs-docs.gnome.org/
+  * https://gjs-docs.gnome.org/  
+  
+### Books  
+- C  
+  * [Foundations of GTK+ Development (Expert's Voice in Open Source) ](https://www.amazon.com/Foundations-Development-Experts-Voice-Source/dp/1590597931)  
+  * [Gtk+ /Gnome Application Development](https://www.amazon.com/Gnome-Application-Development-Havoc-Pennington/dp/0735700788/ref=pd_lpo_14_img_1/138-1018100-4026252?_encoding=UTF8&pd_rd_i=0735700788&pd_rd_r=8b64b05a-bf02-4bc9-8b16-a40fc1ba05bd&pd_rd_w=UwFs6&pd_rd_wg=QeOAB&pf_rd_p=a0d6e967-6561-454c-84f8-2ce2c92b79a6&pf_rd_r=CYYE0TXYVEQVSHV0PTAA&psc=1&refRID=CYYE0TXYVEQVSHV0PTAA)  
+- Vala + JS  
+  * [GNOME 3 Application Development Beginner’s Guide](https://oiipdf.com/gnome-3-application-development-beginners-guide)  
+- Vala  
+  * [Introducing Vala Programming: A Language and Techniques to Boost Productivity](https://www.amazon.com/Introducing-Vala-Programming-Techniques-Productivity/dp/1484253795) Contains GTK 3 section.  
+  
