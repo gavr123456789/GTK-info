@@ -22,7 +22,9 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * GTK 3 https://github.com/gtkd-developers/GtkD
 - Crystal 
   * GIR https://github.com/jhass/crystal-gobject
-- Swift https://github.com/rhx/gir2swift
+- Swift 
+  * GIR https://github.com/rhx/gir2swift
+  * GTK 3 and 4 https://github.com/rhx/SwiftGtk
 - Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
