@@ -84,23 +84,23 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * https://gjs.guide/showcase/
 
 ### Docs
-
-- C++
-  * [GTKMM](https://www.gtkmm.org/en/documentation.html)
-  * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
 - Vala
   * [GTK 3](https://valadoc.org/gtk+-3.0/index.htm)
   * [GTK 4](https://valadoc.org/gtk4/index.htm)  
+  * [General G* Docs](https://valadoc.org/index.htm)
+- C++
+  * [GTKMM](https://www.gtkmm.org/en/documentation.html)
+  * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
 - Swift
   * [GTK 3](https://rhx.github.io/SwiftGtk3Doc/)
   * [GTK 4](https://rhx.github.io/SwiftGtk4Doc/index.html)
   * [General G* Docs](https://rhx.github.io/SwiftGtk/)
 - D
-  * [GTK 3](https://api.gtkd.org/)
+  * [General G* Docs](https://api.gtkd.org/) (No GTK 4)
 - Guile
   * [GTK 3](https://spk121.github.io/guile-gi/)
 - GJS
-  * https://gjs-docs.gnome.org/  
+  * [General G* Docs](https://gjs-docs.gnome.org/)  
   
 ### Books  
 - C  
