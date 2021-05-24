@@ -24,7 +24,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * GIR https://github.com/jhass/crystal-gobject
 - Swift 
   * GIR https://github.com/rhx/gir2swift
-  * GTK 3 and 4 https://github.com/rhx/SwiftGtk
+  * GTK 3 https://github.com/rhx/SwiftGtk
+  * GTK 4 https://github.com/rhx/SwiftGtk/tree/gtk4
 - Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
@@ -89,7 +90,11 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [GTKMM 4](https://developer.gnome.org/gtkmm-tutorial/unstable/index.html.en)
 - Vala
   * [GTK 3](https://valadoc.org/gtk+-3.0/index.htm)
-  * [GTK 4](https://valadoc.org/gtk4/index.htm)
+  * [GTK 4](https://valadoc.org/gtk4/index.htm)  
+- Swift
+  * [GTK 3](https://rhx.github.io/SwiftGtk3Doc/)
+  * [GTK 4](https://rhx.github.io/SwiftGtk4Doc/index.html)
+  * [General G* Docs](https://rhx.github.io/SwiftGtk/)
 - D
   * [GTK 3](https://api.gtkd.org/)
 - Guile
