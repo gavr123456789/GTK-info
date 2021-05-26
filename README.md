@@ -17,6 +17,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * GTK 3 https://github.com/diamondburned/gotk3
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
 - Rust https://github.com/gtk-rs/gtk
+- Haskell 
+  * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
 - Dlang 
   * GIR https://github.com/gtkd-developers/gir-to-d
   * GTK 3 https://github.com/gtkd-developers/GtkD
