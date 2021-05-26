@@ -50,6 +50,11 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [Начинаем использовать GTKD](https://habr.com/ru/post/259717/) 2015
   * [More than 100 nice lessons for GTK 3](https://gtkdcoding.com/)  Last 2020
   * [GTK 3 tutorial](https://sites.google.com/site/gtkdtutorial/) 2013
+- Haskell
+  * [Создаём GTK-видеоплеер с использованием Haskell](https://habr.com/ru/company/mailru/blog/338176/) 2017
+  * [GTK programming with haskell](https://haskell-at-work.com/episodes/2018-11-13-gtk-programming-with-haskell.html) 2018 with video
+  * [How do I set up Gtk on Windows for Haskell development](https://stackoverflow.com/questions/47280515/how-do-i-set-up-gtk-on-windows-for-haskell-development)
+  * [GUI Programming with gtk2hs](http://book.realworldhaskell.org/read/gui-programming-with-gtk-hs.html) 2008 GTK 2
 - C
   * [Gtk4 Tutorial for beginners](https://github.com/ToshioCP/Gtk4-tutorial)
   * [GTK Glade C Programming Tutorial](https://prognotes.net/gtk-glade-c-programming/)
@@ -84,6 +89,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * This repo
 - GJS
   * https://gjs.guide/showcase/
+- Haskell
+  * https://github.com/haskell-gi/haskell-gi/tree/master/examples
 
 ### Docs
 - Vala
@@ -103,6 +110,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [GTK 3](https://spk121.github.io/guile-gi/)
 - GJS
   * [General G* Docs](https://gjs-docs.gnome.org/)  
+- Haskell
+  * [Project Wiki](https://github.com/haskell-gi/haskell-gi/wiki)
   
 ### Books  
 - C  
