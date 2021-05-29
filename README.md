@@ -5,7 +5,8 @@
 ## [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
 
 
-Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial
+Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial  
+Another C tutorial from GTK 4 devs https://docs.gtk.org/gtk4/getting_started.html
 
 Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages.
 
