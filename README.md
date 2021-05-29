@@ -31,7 +31,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
-
+- Kotlin
+  * GTK 3 https://github.com/Doomsdayrs/kotlinx-gtk
 - C++ 
   * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
   * GIR https://gitlab.com/mnauw/cppgir
