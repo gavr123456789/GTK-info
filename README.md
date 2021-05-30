@@ -49,6 +49,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Smalltalk
   * GNU Smalltalk comes with GTK bindings and with a browser based on it
   * Pharo GTK 3 backend built in since version 9 https://vimeo.com/554479973
+- Ada
+  * GTK 3 https://github.com/AdaCore/gtkada
 
 # Tutorials
 - Nim
