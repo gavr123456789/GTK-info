@@ -46,6 +46,9 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed  
 - Scala-native
   * GTK 3 https://github.com/jokade/scalanative-gtk
+- Smalltalk
+  * GNU Smalltalk comes with GTK bindings and with a browser based on it
+  * Pharo GTK 3 backend built in since version 9 https://vimeo.com/554479973
 
 # Tutorials
 - Nim
