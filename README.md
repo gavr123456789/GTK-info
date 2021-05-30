@@ -44,6 +44,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * Node https://github.com/romgrk/node-gtk
   * GJS https://gitlab.gnome.org/GNOME/gjs/
   * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed  
+- Scala-native
+  * GTK 3 https://github.com/jokade/scalanative-gtk
 
 # Tutorials
 - Nim
