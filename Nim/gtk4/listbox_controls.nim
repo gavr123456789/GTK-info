@@ -12,6 +12,8 @@ proc createListBoxFrame1(): Frame =
   let
     frame1 = newFrame()
     listBox1 = newListBox()
+    listBox123 = newListBox()
+
 
     listBoxRow1 = newBox(Orientation.horizontal, 0)
     labelSwitch = newLabel("Switch")
@@ -205,3 +207,5 @@ proc main =
   discard run(app)
 
 main()
+
+
