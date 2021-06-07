@@ -131,7 +131,7 @@
 ## Vala
 - [deja-dup](https://gitlab.gnome.org/World/deja-dup)  
 - [Fragments](https://gitlab.gnome.org/World/Fragments)  
-- [khronos](https://github.com/lainsce/khronos)  
+- [khronos](https://github.com/lainsce/khronos) GTK 4  
 - [markets](https://github.com/bitstower/markets)  
 - [tootle](https://github.com/bleakgrey/tootle)  
 
@@ -147,22 +147,22 @@
 - [dialect](https://github.com/dialect-app/dialect)  
 - [drawing](https://github.com/maoschanz/drawing)  
 - [gaphor](https://gaphor.org/)  
-- [Kooha](https://github.com/SeaDve/Kooha)  
+- [Kooha](https://github.com/SeaDve/Kooha) GTK 4  
 - [metadata-cleaner](https://gitlab.com/rmnvgr/metadata-cleaner)  
 - [PasswordSafe](https://gitlab.gnome.org/World/PasswordSafe)  
 - [Plots](https://github.com/alexhuntley/Plots)  
 - [webfont-kit-generator](https://github.com/rafaelmardojai/webfont-kit-generator  
 
 ## Rust 
-- [Authenticator](https://flathub.org/apps/details/com.belmoussaoui.Authenticator)  
-- [Health](https://gitlab.gnome.org/Cogitri/Health)  
-- [identity](https://gitlab.gnome.org/YaLTeR/identity)  
+- [Authenticator](https://flathub.org/apps/details/com.belmoussaoui.Authenticator) GTK 4  
+- [Health](https://gitlab.gnome.org/Cogitri/Health) GTK 4  
+- [identity](https://gitlab.gnome.org/YaLTeR/identity)   
 - [news_flash_gtk](https://gitlab.com/news-flash/news_flash_gtk)  
 - [obfuscate](https://gitlab.gnome.org/World/obfuscate)  
 - [pika-backup](https://gitlab.gnome.org/World/pika-backup)  
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave)  
-- [Solanum](https://gitlab.gnome.org/World/Solanum)  
-- [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer)  
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) GTK 4  
+- [Solanum](https://gitlab.gnome.org/World/Solanum) GTK 4  
+- [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer) GTK 4  
 
 ## GJS
 - [Tangram](https://github.com/sonnyp/Tangram)  
