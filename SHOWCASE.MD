@@ -68,6 +68,9 @@
 - [Rest-scope](https://gitlab.com/kendellfab/rest-scope)
 - [Tilix](https://github.com/gnunn1/tilix/)
 
+## Go
+- [Rest-scopev 2](https://gitlab.com/kendellfab/restscopev2)
+
 ## C#
 - [chronojump](https://gitlab.gnome.org/GNOME/chronojump)  
 - [gbrainy](https://gitlab.gnome.org/GNOME/gbrainy)  
