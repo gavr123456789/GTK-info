@@ -68,13 +68,13 @@
 - [Rest-scope](https://gitlab.com/kendellfab/rest-scope)
 - [Tilix](https://github.com/gnunn1/tilix/)
 
-# C#
+## C#
 - [chronojump](https://gitlab.gnome.org/GNOME/chronojump)  
 - [gbrainy](https://gitlab.gnome.org/GNOME/gbrainy)  
 
 
 
-# C
+## C
 - [gnome-text-editor](https://gitlab.gnome.org/GNOME/gnome-text-editor)  
 - [gimp](https://gitlab.gnome.org/GNOME/gimp)  
 - [epiphany](https://gitlab.gnome.org/GNOME/epiphany)  
@@ -119,14 +119,14 @@
 - [hitori](https://gitlab.gnome.org/GNOME/hitori)  
 - [tali](https://gitlab.gnome.org/GNOME/tali)  
 
-# C++  
+## C++  
 - [gparted](https://gitlab.gnome.org/GNOME/gparted)  
 - [gnome-commander](https://gitlab.gnome.org/GNOME/gnome-commander)  
 - [gnome-system-monitor](https://gitlab.gnome.org/GNOME/gnome-system-monitor)  
 - [pan](https://gitlab.gnome.org/GNOME/pan)  
 
 
-# [GNOME Cicle](https://circle.gnome.org/)
+## [GNOME Cicle](https://circle.gnome.org/)
 
 ## Vala
 - [deja-dup](https://gitlab.gnome.org/World/deja-dup)  
@@ -164,6 +164,6 @@
 - [Solanum](https://gitlab.gnome.org/World/Solanum)  
 - [video-trimmer](https://gitlab.gnome.org/YaLTeR/video-trimmer)  
 
-# GJS
+## GJS
 - [Tangram](https://github.com/sonnyp/Tangram)  
 
