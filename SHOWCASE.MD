@@ -64,6 +64,10 @@
 - [pika-backup](https://gitlab.gnome.org/World/pika-backup)  
 - [Authenticator](https://gitlab.gnome.org/World/Authenticator)
 
+## D
+- [Rest-scope](https://gitlab.com/kendellfab/rest-scope)
+- [Tilix](https://github.com/gnunn1/tilix/)
+
 # C#
 - [chronojump](https://gitlab.gnome.org/GNOME/chronojump)  
 - [gbrainy](https://gitlab.gnome.org/GNOME/gbrainy)  
