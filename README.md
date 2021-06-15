@@ -20,6 +20,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Rust https://github.com/gtk-rs/gtk
 - Haskell 
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
+  * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
+  * Reactive Banana GI GTK https://github.com/mr/reactive-banana-gi-gtk
 - Dlang 
   * GIR https://github.com/gtkd-developers/gir-to-d
   * GTK 3 https://github.com/gtkd-developers/GtkD
