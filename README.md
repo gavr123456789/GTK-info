@@ -17,7 +17,9 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Golang
   * GTK 3 https://github.com/diamondburned/gotk3
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
-- Rust https://github.com/gtk-rs/gtk
+- Rust 
+  * [GTK 3 4](https://github.com/gtk-rs/gtk)
+  * [New site](https://gtk-rs.org/)
 - Haskell 
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
   * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
@@ -61,6 +63,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [Начинаем использовать GTKD](https://habr.com/ru/post/259717/) 2015
   * [More than 100 nice lessons for GTK 3](https://gtkdcoding.com/)  Last 2020
   * [GTK 3 tutorial](https://sites.google.com/site/gtkdtutorial/) 2013
+- Rust
+  * [GTK 4](https://gtk-rs.org/gtk4-rs/git/book/)
 - Haskell
   * [Создаём GTK-видеоплеер с использованием Haskell](https://habr.com/ru/company/mailru/blog/338176/) 2017
   * [GTK programming with haskell](https://haskell-at-work.com/episodes/2018-11-13-gtk-programming-with-haskell.html) 2018 with video
