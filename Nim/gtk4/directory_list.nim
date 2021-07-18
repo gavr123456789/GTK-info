@@ -1,14 +1,18 @@
 import gintro/[gtk4, gobject, gio]
 import std/with
 
+proc getFileName(info: gio.FileInfo): string =
+  return info.getName()  
+
 proc setup_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
   listitem.setChild(newLabel(""))
   
 proc bind_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
   let 
-    lb: Label = listitem.getChild.Label
-    strobj: StringObject = stringObject(listitem.getItem())
-  lb.setText strobj.getString()
+    lb = listitem.getChild().Label
+    strobj = cast[FileInfo](listitem.getItem())
+
+  lb.text = strobj.getFileName()
 
 proc unbind_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
   # There's nothing to do here. 
@@ -25,15 +29,15 @@ proc activate(app: gtk4.Application) =
   let
     window = newApplicationWindow(app)
     scr = newScrolledWindow()
-
-    sl = gtk4.newStringList("Nim", "Vala", "Rust", "Zig")
-    ls = listModel(sl)
-    ns = gtk4.newMultiSelection(ls)
+    file = gio.newGFileForPath(".")
+    dl = gtk4.newDirectoryList("standard::name", file)
+    ls = listModel(dl)
+    ns = gtk4.newNoSelection(ls)
     factory = gtk4.newSignalListItemFactory()
     lv = newListView(ns, factory)
   
   scr.setChild lv
-  lv.enableRubberband = true
+  dl.setMonitored true
 
   with factory:
     connect("setup", setup_cb)

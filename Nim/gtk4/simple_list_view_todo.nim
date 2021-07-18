@@ -24,16 +24,23 @@ func generate100Strings(itemNum: int): seq[string] =
 
 ### SignalFactory callbacks
 proc setup_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
-  listitem.setChild(newLabel(""))
+  listitem.setChild(newButton(""))
   
 proc bind_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
-  listitem.getChild().Label.text = listitem.getString()
+  listitem.getChild().Button.label = listitem.getString()
 
 
 proc unbind_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
-  echo "unbind"
+  # echo "unbind"
+  discard
 
 proc teardown_cb(factory: gtk4.SignalListItemFactory, listitem: gtk4.ListItem) =
+  # echo "teardown_cb"
+  if listitem.getChild != nil:
+    echo "ref count", listitem.child.refCount
+  else:
+    echo "listitem.getChild = nil"
+
   listitem.setChild (nil)
 
 
