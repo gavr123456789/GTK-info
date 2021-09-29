@@ -15,7 +15,7 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - C# https://github.com/gircore/gir.core
 - Nim https://github.com/StefanSalewski/gintro  
 - Golang
-  * GTK 3 https://github.com/diamondburned/gotk3
+  * GTK 3 https://github.com/gotk3/gotk3
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
 - Rust 
   * [GTK 3 4](https://github.com/gtk-rs/gtk)
