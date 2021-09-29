@@ -44,10 +44,11 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Guile 
   * GNU G-Golf GIR https://www.gnu.org/software/g-golf/
   * Guile-GI https://github.com/spk121/guile-gi
-- JS 
+- JS/TS 
   * Node https://github.com/romgrk/node-gtk
+  * TypeScript GIR bingings https://github.com/sammydre/ts-for-gjs
   * GJS https://gitlab.gnome.org/GNOME/gjs/
-  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed  
+  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed
 - Scala-native
   * GTK 3 https://github.com/jokade/scalanative-gtk
 - Smalltalk
