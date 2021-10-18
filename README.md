@@ -18,8 +18,8 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * GTK 3 https://github.com/gotk3/gotk3
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
 - Rust 
-  * [GTK 3 4](https://github.com/gtk-rs/gtk)
-  * [New site](https://gtk-rs.org/)
+  * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
+  * relm - GTK 3 gui basic lib inspired by elm https://github.com/antoyo/relm
 - Haskell 
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
   * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
