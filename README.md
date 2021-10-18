@@ -37,6 +37,7 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
 - Kotlin
+  * GTK 4 with DSL WIP https://github.com/Doomsdayrs/gtk-kt
   * GTK 3 https://github.com/Doomsdayrs/kotlinx-gtk
 - C++ 
   * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
