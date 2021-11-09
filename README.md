@@ -29,6 +29,7 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * GTK 3 https://github.com/gtkd-developers/GtkD
 - Crystal 
   * GIR https://github.com/jhass/crystal-gobject
+  * GTK 4 https://github.com/hugopl/gtk4.cr
 - Swift 
   * GIR https://github.com/rhx/gir2swift
   * GTK 3 https://github.com/rhx/SwiftGtk
