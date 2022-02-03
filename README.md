@@ -14,7 +14,9 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Vala language was created for GTK Dev
 - C# GIR https://github.com/gircore/gir.core
 - Nim GIR https://github.com/StefanSalewski/gintro  
-- Zig Native C interop https://github.com/Sobeston/gtk4-zig-example
+- Zig 
+  * Native C interop https://github.com/Sobeston/gtk4-zig-example
+  * GIR https://github.com/Diegovsky/gintro
 - Golang
   * GTK 3 https://github.com/gotk3/gotk3
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
