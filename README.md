@@ -41,9 +41,10 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
 - Kotlin
-  * GIR https://gitlab.com/gtk-kt/gtk-kt
-  * GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
-  * GTK 3 https://github.com/Doomsdayrs/kotlinx-gtk
+  * GIR https://github.com/jwharm/java-gi
+  * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
+- Kotlin Native
+  * GIR https://gitlab.com/gtk-kn/gtk-kn
 - C++ 
   * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
   * GIR https://gitlab.com/mnauw/cppgir
