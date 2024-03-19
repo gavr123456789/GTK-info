@@ -23,6 +23,7 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Rust 
   * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
   * relm - GTK 3 gui basic lib inspired by elm https://github.com/antoyo/relm
+  * relm4 - GTK 4 gui framework inspired by elm https://relm4.org/
 - Haskell 
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
   * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
@@ -73,6 +74,7 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [GTK 3 tutorial](https://sites.google.com/site/gtkdtutorial/) 2013
 - Rust
   * [GTK 4](https://gtk-rs.org/gtk4-rs/git/book/)
+  * [relm4](https://relm4.org/book/stable/)
 - Haskell
   * [Создаём GTK-видеоплеер с использованием Haskell](https://habr.com/ru/company/mailru/blog/338176/) 2017
   * [GTK programming with haskell](https://haskell-at-work.com/episodes/2018-11-13-gtk-programming-with-haskell.html) 2018 with video
