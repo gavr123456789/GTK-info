@@ -11,9 +11,27 @@ Another C tutorial from GTK 4 devs https://docs.gtk.org/gtk4/getting_started.htm
 Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages.
 
 # GTK for Languages
-- Vala language was created for GTK Dev
+- Vala language was created by GNOME for GTK development(kinda like Swift from Apple)
+  * https://vala.dev/
+  * [Lib docs](https://valadoc.org/)
+  * [Tutorial](https://wiki.gnome.org/Projects/Vala/Tutorial)
+- Blueprint declarative DSL for GTK GUI, alla JSX but not XML(GTK has XML by default)
+  * [Site](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler/#)
+  * [VSCode plugin](https://github.com/bodil/vscode-blueprint)
+  * [Live preview tool](https://github.com/workbenchdev/Workbench)
+----
+- Kotlin JVM
+  * GIR via Java API https://github.com/jwharm/java-gi
+  * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
+- Kotlin Native
+  * GIR https://gitlab.com/gtk-kn/gtk-kn
 - C# GIR https://github.com/gircore/gir.core
-- Nim GIR https://github.com/StefanSalewski/gintro  
+- Nim GIR https://github.com/StefanSalewski/gintro
+- Swift
+  * Swift UI https://github.com/AparokshaUI/adwaita-swift [blog post](https://www.swift.org/blog/adwaita-swift/)
+  * GIR https://github.com/rhx/gir2swift
+  * GTK 3 https://github.com/rhx/SwiftGtk
+  * GTK 4 https://github.com/rhx/SwiftGtk/tree/gtk4
 - Zig 
   * Native C interop https://github.com/Sobeston/gtk4-zig-example
   * GIR https://github.com/Diegovsky/gintro
@@ -23,6 +41,12 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Rust 
   * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
   * relm - GTK 3 gui basic lib inspired by elm https://github.com/antoyo/relm
+- JS/TS 
+  * Node https://github.com/romgrk/node-gtk
+  * TypeScript GIR bingings https://github.com/sammydre/ts-for-gjs
+  * GJS(Official GTK lang) https://gitlab.gnome.org/GNOME/gjs/ Official GNOME js
+  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed
+- Python(Official GTK lang) - https://pygobject.readthedocs.io/en/latest/
 - Haskell 
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
   * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
@@ -33,29 +57,14 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 - Crystal 
   * GIR https://github.com/jhass/crystal-gobject
   * GTK 4 https://github.com/hugopl/gtk4.cr
-- Swift 
-  * GIR https://github.com/rhx/gir2swift
-  * GTK 3 https://github.com/rhx/SwiftGtk
-  * GTK 4 https://github.com/rhx/SwiftGtk/tree/gtk4
-- Python - Python bindings (runtime) to https://pygobject.readthedocs.io/en/latest/
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
-- Kotlin
-  * GIR https://github.com/jwharm/java-gi
-  * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
-- Kotlin Native
-  * GIR https://gitlab.com/gtk-kn/gtk-kn
 - C++ 
   * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
   * GIR https://gitlab.com/mnauw/cppgir
 - Guile 
   * GNU G-Golf GIR https://www.gnu.org/software/g-golf/
   * Guile-GI https://github.com/spk121/guile-gi
-- JS/TS 
-  * Node https://github.com/romgrk/node-gtk
-  * TypeScript GIR bingings https://github.com/sammydre/ts-for-gjs
-  * GJS https://gitlab.gnome.org/GNOME/gjs/
-  * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed
 - Scala-native
   * GTK 3 https://github.com/jokade/scalanative-gtk
 - Smalltalk
