@@ -3,6 +3,8 @@
 ## [GTK4 API](https://www.gtk.org/docs/apis/)
 ## [ADW API](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/)
 ## [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
+### [Workbench](https://apps.gnome.org/ru/Workbench/) more than 100 code examples that you can run live
+### [Some Lua\Vala\C code examples](https://github.com/Miqueas/GTK-Examples)
 
 
 Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial  
@@ -20,6 +22,9 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [VSCode plugin](https://github.com/bodil/vscode-blueprint)
   * [Live preview tool](https://github.com/workbenchdev/Workbench)
 ----
+GIR - Gobject Introspection - means lang can call any GObject lib
+GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg with GIR-generated bindings)
+
 - Kotlin JVM
   * GIR via Java API https://github.com/jwharm/java-gi
   * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
