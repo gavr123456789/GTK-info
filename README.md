@@ -4,7 +4,7 @@
 ## [ADW API](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/)
 ## [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
 ### [Workbench](https://apps.gnome.org/ru/Workbench/) more than 100 code examples that you can run live
-### [Some Lua\Vala\C code examples](https://github.com/Miqueas/GTK-Examples)
+### [Some Lua\Vala\C](https://github.com/Miqueas/GTK-Examples) code examples
 
 
 Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial  
