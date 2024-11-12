@@ -71,6 +71,7 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
   * GTK 4 https://github.com/hugopl/gtk4.cr
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
+- Perl GTK 4 https://gitlab.gnome.org/World/Perl/perl-gtk4
 - C++ 
   * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
   * GIR https://gitlab.com/mnauw/cppgir
