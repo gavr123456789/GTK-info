@@ -45,6 +45,10 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
 - Scheme
   * Guile GIR [g-golf](https://www.gnu.org/software/g-golf/index.html) Guile Object Library for (GNOME)
+ 
+- Free Pascal
+  * GTK 3 https://wiki.freepascal.org/GTK3_Interface
+  * GTK 2 https://wiki.freepascal.org/GTK2_Interface
     
 - Rust 
   * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
