@@ -45,9 +45,9 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
 - Scheme
   * Guile GIR [g-golf](https://www.gnu.org/software/g-golf/index.html) Guile Object Library for (GNOME)
 - Nim GIR https://github.com/StefanSalewski/gintro
-- Free Pascal
-  * GTK 3 https://wiki.freepascal.org/GTK3_Interface
-  * GTK 2 https://wiki.freepascal.org/GTK2_Interface
+- C++ 
+  * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
+  * GIR https://gitlab.com/mnauw/cppgir
 - Dlang
   * GIR https://github.com/Kymorphia/gid
   * GIR https://github.com/gtkd-developers/gir-to-d
@@ -71,20 +71,21 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
 - Perl GTK 4 https://gitlab.gnome.org/World/Perl/perl-gtk4
-- C++ 
-  * GTKMM https://gitlab.gnome.org/GNOME/gtkmm
-  * GIR https://gitlab.com/mnauw/cppgir
 - Guile 
   * GNU G-Golf GIR https://www.gnu.org/software/g-golf/
   * Guile-GI https://github.com/spk121/guile-gi
 - Scala-native
   * GTK 3 https://github.com/jokade/scalanative-gtk
 - Smalltalk
+  * Pharo GTK 4 https://github.com/pharo-spec/Spec-Gtk
   * GNU Smalltalk comes with GTK bindings and with a browser based on it
   * Pharo GTK 3 backend built in since version 9 https://vimeo.com/554479973
 - Ada
   * GTK 3 https://github.com/AdaCore/gtkada
-
+- Free Pascal
+  * GTK 3 https://wiki.freepascal.org/GTK3_Interface
+  * GTK 2 https://wiki.freepascal.org/GTK2_Interface
+    
 # Tutorials
 - Nim
   * [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html) 2021
