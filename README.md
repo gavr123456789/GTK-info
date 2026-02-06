@@ -26,18 +26,17 @@ GIR - Gobject Introspection - means lang can call any GObject lib
 GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg with GIR-generated bindings)
 
 - Kotlin JVM
+  * Compose GTK 4 https://github.com/compose4gtk/compose-4-gtk
   * GIR via Java API https://github.com/jwharm/java-gi
   * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
-- Kotlin Native
-  * GIR https://gitlab.com/gtk-kn/gtk-kn
 - C# GIR https://github.com/gircore/gir.core
-- Nim GIR https://github.com/StefanSalewski/gintro
 - Swift
   * Swift UI https://github.com/AparokshaUI/adwaita-swift [blog post](https://www.swift.org/blog/adwaita-swift/)
   * GIR https://github.com/rhx/gir2swift
   * GTK 3 https://github.com/rhx/SwiftGtk
   * GTK 4 https://github.com/rhx/SwiftGtk/tree/gtk4
-- Zig 
+- Zig
+  * GIR https://github.com/DerryAlex/zig-gir-ffi
   * Native C interop https://github.com/Sobeston/gtk4-zig-example
   * GIR https://github.com/Diegovsky/gintro
 - Golang
@@ -45,11 +44,17 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
   * GTK 4 Not ready https://github.com/diamondburned/gotk4
 - Scheme
   * Guile GIR [g-golf](https://www.gnu.org/software/g-golf/index.html) Guile Object Library for (GNOME)
- 
+- Nim GIR https://github.com/StefanSalewski/gintro
 - Free Pascal
   * GTK 3 https://wiki.freepascal.org/GTK3_Interface
   * GTK 2 https://wiki.freepascal.org/GTK2_Interface
-    
+- Dlang
+  * GIR https://github.com/Kymorphia/gid
+  * GIR https://github.com/gtkd-developers/gir-to-d
+  * GTK 3 https://github.com/gtkd-developers/GtkD
+- Crystal 
+  * GIR https://github.com/jhass/crystal-gobject
+  * GTK 4 https://github.com/hugopl/gtk4.cr
 - Rust 
   * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
   * relm - GTK 3 gui basic lib inspired by elm https://github.com/antoyo/relm
@@ -63,12 +68,6 @@ GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg w
   * GIR with GTK 3 and 4 support https://github.com/haskell-gi/haskell-gi
   * gi-gtk-declarative https://github.com/owickstrom/gi-gtk-declarative
   * Reactive Banana GI GTK https://github.com/mr/reactive-banana-gi-gtk
-- Dlang 
-  * GIR https://github.com/gtkd-developers/gir-to-d
-  * GTK 3 https://github.com/gtkd-developers/GtkD
-- Crystal 
-  * GIR https://github.com/jhass/crystal-gobject
-  * GTK 4 https://github.com/hugopl/gtk4.cr
 - Standard ML Family http://giraffelibrary.org/
 - Ruby https://github.com/ruby-gnome/ruby-gnome
 - Perl GTK 4 https://gitlab.gnome.org/World/Perl/perl-gtk4
