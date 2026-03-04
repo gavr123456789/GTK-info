@@ -23,7 +23,6 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
   * [Live preview tool](https://github.com/workbenchdev/Workbench)
 ----
 GIR - Gobject Introspection - means lang can call any GObject lib  
-GTK3\4 - means its probably manual written bindings for GTK(or a link to a pkg with GIR-generated bindings)
 
 - Kotlin JVM
   * Compose GTK 4 https://github.com/compose4gtk/compose-4-gtk
