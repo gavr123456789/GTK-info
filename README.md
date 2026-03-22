@@ -1,27 +1,29 @@
 # Usefull Links
-## [GTK Site](https://www.gtk.org/)
-## [GTK4 API](https://www.gtk.org/docs/apis/)
-## [ADW API](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/)
-## [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
-### [Workbench](https://apps.gnome.org/ru/Workbench/) more than 100 code examples that you can run live
-### [Some Lua\Vala\C](https://github.com/Miqueas/GTK-Examples) code examples
+- [GTK Site](https://www.gtk.org/)
+- [GTK4 API](https://www.gtk.org/docs/apis/)
+- [ADW API](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/main/)
+- [GNOME HIG](https://teams.pages.gitlab.gnome.org/Design/hig-www/)
+- [Workbench](https://apps.gnome.org/ru/Workbench/) more than 100 code examples that you can run live
+- [Some Lua\Vala\C](https://github.com/Miqueas/GTK-Examples) code examples on different languages
 
-
-Gtk4 Tutorial for beginners (for C but its so good that it doesnt matter what language you will use) https://github.com/ToshioCP/Gtk4-tutorial  
-Another C tutorial from GTK 4 devs https://docs.gtk.org/gtk4/getting_started.html
+- [Gtk4 Tutorial for beginners](https://github.com/ToshioCP/Gtk4-tutorial) (for C but its so good that it doesnt matter what language you will use)   
+- [C tutorial from GTK 4 devs](https://docs.gtk.org/gtk4/getting_started.html) 
 
 Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages.
 
-# GTK for Languages
+# Useful tools*
 - Vala language was created by GNOME for GTK development(kinda like Swift from Apple)
-  * https://vala.dev/
+  * [vala.dev](https://vala.dev/)
   * [Lib docs](https://valadoc.org/)
-  * [Tutorial](https://wiki.gnome.org/Projects/Vala/Tutorial)
+  * Tsoding Vala Streams [1](https://youtu.be/t4any72mFR0?t=3123) [2](https://youtu.be/LW0VdufnCBQ)
 - Blueprint declarative DSL for GTK GUI, alla JSX but not XML(GTK has XML by default)
   * [Site](https://jwestman.pages.gitlab.gnome.org/blueprint-compiler/#)
   * [VSCode plugin](https://github.com/bodil/vscode-blueprint)
   * [Live preview tool](https://github.com/workbenchdev/Workbench)
+- [Cambalache](https://gitlab.gnome.org/jpu/cambalache/) is a new RAD tool for Gtk 4 and 3 with a clear MVC design and data model first philosophy.
 ----
+
+# GTK for Languages
 GIR - Gobject Introspection - means lang can call any GObject lib  
 
 - Kotlin JVM
@@ -57,9 +59,11 @@ GIR - Gobject Introspection - means lang can call any GObject lib
 - Rust 
   * gtk-rs [GTK 3 4](https://github.com/gtk-rs/gtk) [New site](https://gtk-rs.org/)
   * relm - GTK 3 gui basic lib inspired by elm https://github.com/antoyo/relm
-- JS/TS 
-  * Node https://github.com/romgrk/node-gtk
-  * TypeScript GIR bingings https://github.com/sammydre/ts-for-gjs
+- JS/TS
+  * GIR React https://github.com/gtkx-org/gtkx
+  * GTK4 ADW manual bindings, Deno, Bun, Node https://github.com/sigmaSd/jsGTK  
+  * GIR Node https://github.com/romgrk/node-gtk
+  * GIR bingings https://github.com/sammydre/ts-for-gjs
   * GJS(Official GTK lang) https://gitlab.gnome.org/GNOME/gjs/ Official GNOME js
   * Seed GObject JavaScriptCore bridge https://wiki.gnome.org/Projects/Seed
 - Python(Official GTK lang) - https://pygobject.readthedocs.io/en/latest/
