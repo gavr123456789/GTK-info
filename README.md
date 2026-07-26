@@ -27,9 +27,10 @@ Also see [SHOWCASE.MD](SHOWCASE.MD) for examples of GTK apps sorted by languages
 GIR - Gobject Introspection - means lang can call any GObject lib  
 
 - Kotlin JVM
-  * Compose GTK 4 https://github.com/compose4gtk/compose-4-gtk
-  * GIR via Java API https://github.com/jwharm/java-gi
-  * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt
+  * Compose GTK 4 https://github.com/compose4gtk/compose-4-gtk [Template](https://github.com/gavr123456789/compose4gtk-template)
+  * GIR via Java API https://github.com/jwharm/java-gi [Template](https://github.com/gavr123456789/Kotlin-GTK-Adwaita-example/tree/main) 
+  * Dead GTK 4 with DSL 96% https://gitlab.com/gtk-kt/gtk-kt 
+    
 - C# GIR https://github.com/gircore/gir.core
 - Swift
   * Swift UI https://github.com/AparokshaUI/adwaita-swift [blog post](https://www.swift.org/blog/adwaita-swift/)
